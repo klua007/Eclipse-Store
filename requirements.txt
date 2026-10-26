@@ -1,0 +1,5 @@
+# Eclipse Store — dependências de produção
+discord.py>=2.4,<3.0
+stripe>=10.0,<17.0
+aiosqlite>=0.20,<1.0
+python-dotenv>=1.0,<2.0
